@@ -1,0 +1,37 @@
+body{
+    font-family: 20px serif;
+}
+.navbar {
+    background-color:#99cc00;
+}
+
+.quem-sou-eu{
+    background-color: #81DAF5;
+    color: black;
+}
+
+.margin{
+    padding-bottom: 30px;
+    padding-bottom: 10px;
+}
+
+.background{
+    background-color :#FE9A2E;
+   
+}
+
+
+
+.row{
+
+    justify-content: space-between;
+}
+
+.objetivos{
+    background-color: #81DAF5;
+}
+
+.editar{
+    font-size: 20px;
+    font-weight: bold;
+}
